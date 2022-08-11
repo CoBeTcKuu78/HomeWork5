@@ -11,7 +11,5 @@ public class Main {
         int [] array = new int [10];
         int arrSise = array.length;
         System.out.println(arrSise);
-
-
     }
 }
